@@ -1,0 +1,18 @@
+h1 {
+  color: red; }
+
+.imgslider {
+  max-height: 70vh; }
+
+footer {
+  background-color: black;
+  text-align: center;
+  display: block;
+  font-size: x-large; }
+
+section img {
+  max-height: 90vh;
+  max-width: 90vh; }
+
+p {
+  color: red; }
